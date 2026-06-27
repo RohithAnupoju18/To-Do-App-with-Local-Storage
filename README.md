@@ -8,6 +8,8 @@ A modern, elegant to-do application featuring neumorphic design principles and p
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
+
+
 ## ✨ Features
 
 ### Core Functionality
@@ -45,3 +47,22 @@ A modern, elegant to-do application featuring neumorphic design principles and p
    ```bash
    git clone https://github.com/RohithAnupoju18/neumorphic-todo.git
    cd neumorphic-todo
+   ```
+
+2. **Install Dependencies (if any)**
+   ```bash
+   npm install
+   ```
+
+3. **Run Locally**
+   Open `App.html` in your browser or use a dev server such as `live-server` or `http-server`.
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+---
+
+Developed by rohitx
